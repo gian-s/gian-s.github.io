@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Giancarlo Sirio</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://gian-s.github.io/posts/</link>
     <description>Recent content in Posts on Giancarlo Sirio</description>
     <image>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://gian-s.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://gian-s.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gian-s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning for Autism Detection</title>
-      <link>http://localhost:1313/posts/gatech_research/</link>
+      <link>https://gian-s.github.io/posts/gatech_research/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/gatech_research/</guid>
+      <guid>https://gian-s.github.io/posts/gatech_research/</guid>
       <description>Deep Learning models to detect when questions are being asked given an audio file for use in Autism detection</description>
     </item>
     
     <item>
       <title>City of Revere Data Analysis</title>
-      <link>http://localhost:1313/posts/reverecensus/</link>
+      <link>https://gian-s.github.io/posts/reverecensus/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/reverecensus/</guid>
+      <guid>https://gian-s.github.io/posts/reverecensus/</guid>
       <description>Exploratory data analysis on whether or not racial disparities are present in the use of city services such as garbage collection, tracking violations, housing violation, etc.</description>
     </item>
     
     <item>
       <title>Facebook Business Cosmetics</title>
-      <link>http://localhost:1313/posts/linearmodels/</link>
+      <link>https://gian-s.github.io/posts/linearmodels/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linearmodels/</guid>
+      <guid>https://gian-s.github.io/posts/linearmodels/</guid>
       <description>Linear Regression Analyses on Facebook Cosmetics site&amp;#39;s metrics</description>
     </item>
     
     <item>
       <title>Convolutional Neural Networks to Detect COVID-19</title>
-      <link>http://localhost:1313/posts/covidcnn/</link>
+      <link>https://gian-s.github.io/posts/covidcnn/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/covidcnn/</guid>
+      <guid>https://gian-s.github.io/posts/covidcnn/</guid>
       <description>Fine tuning large scaled CNNs for classifying x-rays of lungs with COVID-19</description>
     </item>
     
